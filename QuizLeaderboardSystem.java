@@ -121,6 +121,7 @@ public class QuizLeaderboardSystem {
         }
     }
 
+
     private static List<Map<String, String>> parseEvents(String body) {
         List<Map<String, String>> events = new ArrayList<>();
 
